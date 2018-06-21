@@ -1,0 +1,17 @@
+﻿
+1) identifier un point d'arrêt
+
+2) lancer le programme en mode debug
+
+3) Step over (F6)
+
+4) Step into (F5)
+
+5) Resume (F8)
+
+6) termiser debogage
+
+5555
+
+
+
